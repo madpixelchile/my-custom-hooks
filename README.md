@@ -3,7 +3,7 @@
 
 Hecho por MadpixelChile
 
-## Features
+## Listado de Hooks 
 
 - Hooks para contadores
 - Hooks para uso de fetch
